@@ -1,0 +1,295 @@
+.welcome-to-scholarbridge {
+  margin: 0;
+  height: 22px;
+  width: 1039px;
+  position: relative;
+  line-height: 22px;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: calc(100% - 0px);
+}
+.container-71 {
+  align-self: stretch;
+  height: 55px;
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  background-color: #15243e;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 14px 170px 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-icon {
+  height: 51px;
+  width: 53px;
+  position: relative;
+  object-fit: cover;
+}
+.radio-btn-icon {
+  width: 15px;
+  height: 15px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.radio-button-label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.5px 0 0;
+}
+.one-of-the {
+  position: relative;
+  line-height: 22px;
+  white-space: pre-wrap;
+}
+.button-42,
+.image-buttons {
+  display: flex;
+  align-items: flex-start;
+}
+.button-42 {
+  align-self: stretch;
+  border-radius: var(--br-9xs);
+  background-color: #272727;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-4xs-5) var(--padding-xl) var(--padding-4xs-5)
+    var(--padding-2xl);
+  gap: 6px;
+}
+.image-buttons {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 5px;
+  box-sizing: border-box;
+  min-width: 377px;
+  max-width: 100%;
+}
+.image-parent {
+  width: 696px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 63px;
+  max-width: 100%;
+}
+.coming-soon {
+  text-decoration: none;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 22px;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.button-43,
+.coming-soon-button {
+  display: flex;
+  align-items: flex-start;
+}
+.button-43 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-13xl) var(--padding-7xs) 33px;
+  background-color: var(--color-white);
+  border-radius: var(--br-9xs);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button-41:hover,
+.button-43:hover {
+  background-color: var(--color-gainsboro);
+}
+.coming-soon-button {
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-6xs);
+}
+.left-content,
+.main-content {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.left-content {
+  width: 1362px;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.main-content {
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-15xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-mini);
+}
+.welcome-to,
+.years-we-corporated {
+  position: absolute;
+  left: 23px;
+  line-height: 60px;
+}
+.years-we-corporated {
+  top: 222px;
+  display: inline-block;
+  width: 981px;
+  height: 289px;
+}
+.welcome-to {
+  top: 127px;
+  white-space: pre-wrap;
+}
+.australiaanuuniversity-of-sy,
+.ukucl-manchester-kcledinbu {
+  display: block;
+}
+.ukucl-manchester-kcledinbu-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+}
+.connect-with-us {
+  position: relative;
+  font-size: 14px;
+  line-height: 21px;
+  font-family: var(--font-open-sans);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.button-41 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xs) var(--padding-xl);
+  background-color: var(--color-white);
+  align-self: stretch;
+  border-radius: var(--br-9xs);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  white-space: nowrap;
+}
+.university-list-container {
+  position: absolute;
+  top: 367px;
+  left: 1004px;
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+  font-size: 13px;
+  font-family: var(--font-open-sans);
+}
+.container-70,
+.container-72 {
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  border-radius: var(--br-9xs);
+  background-color: var(--color-darkslategray);
+}
+.container-70 {
+  position: absolute;
+  top: 274px;
+  left: 0;
+  width: 118px;
+  height: 120px;
+  z-index: 1;
+}
+.container-72 {
+  height: 607px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.conversion-output,
+.university-info {
+  display: flex;
+  text-align: left;
+  color: var(--color-white);
+}
+.university-info {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-24xl);
+  font-family: var(--font-poppins);
+}
+.conversion-output {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+  background-color: var(--color-black);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 6.5px;
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--font-size-base);
+  font-family: var(--font-open-sans);
+}
+@media screen and (max-width: 1200px) {
+  .container-71 {
+    padding-left: var(--padding-66xl);
+    padding-right: var(--padding-66xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .left-content {
+    flex-wrap: wrap;
+  }
+  .welcome-to,
+  .years-we-corporated {
+    font-size: var(--font-size-15xl);
+    line-height: 48px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .container-71 {
+    padding-left: var(--padding-23xl);
+    padding-right: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+  .image-buttons {
+    min-width: 100%;
+  }
+  .image-parent {
+    flex-wrap: wrap;
+    gap: 31px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .container-71 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .image-parent {
+    gap: var(--gap-base);
+  }
+  .welcome-to,
+  .years-we-corporated {
+    font-size: var(--font-size-7xl);
+    line-height: 36px;
+  }
+}
