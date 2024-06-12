@@ -29,7 +29,7 @@
   object-fit: cover;
 }
 .radio-btn-icon {
-  width: 15px;
+  width: 30px;
   height: 15px;
   position: relative;
   overflow: hidden;
@@ -162,8 +162,8 @@
 }
 .connect-with-us {
   position: relative;
-  font-size: 14px;
-  line-height: 21px;
+  font-size: 11px;
+  line-height: 15px;
   font-family: var(--font-open-sans);
   color: var(--color-gray-100);
   text-align: left;
